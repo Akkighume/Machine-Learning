@@ -1,14 +1,16 @@
-**Types of Machine Learning Algorithms**
+# **Types of Machine Learning Algorithms**
 
 
 There are three types of machine learning algorithms:
 
-A. Supervised Learning-
+A. Supervised Learning
+        
         Regression
         Classification
 
-B. Unsupervised Learning-
+B. Unsupervised Learning
+        
         Clustering
         Dimensionality Reduction
 
-C. Reinforcement Learning-
+C. Reinforcement Learning
